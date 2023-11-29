@@ -175,14 +175,16 @@ For reference, we select some papers for each of the topics. There is such a vas
 
 ## Useful Resources
 
-1. [Fairseq](https://github.com/facebookresearch/fairseq)
-2. [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor)
-3. [Huggingface Transformers](https://github.com/huggingface/transformers)
-4. [FasterTransformer](https://github.com/NVIDIA/FasterTransformer)
-5. [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
-6. [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
-7. [Attention Mechanisms and Transformers (Dive into Deep Learning)](https://d2l.ai/chapter_attention-mechanisms-and-transformers/index.html)
-8. [Transformers and Multi-Head Attention (UvA Deep Learning Tutorials)](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial6/Transformers_and_MHAttention.html)
+1. [system] [Fairseq](https://github.com/facebookresearch/fairseq)
+2. [system] [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor)
+3. [system] [Huggingface Transformers](https://github.com/huggingface/transformers)
+4. [system] [FasterTransformer](https://github.com/NVIDIA/FasterTransformer)
+5. [system] [BERT](https://github.com/google-research/bert)
+6. [system] [Llama](https://github.com/facebookresearch/llama)
+7. [tutorial] [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+8. [tutorial] [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
+9. [tutorial] [Attention Mechanisms and Transformers (Dive into Deep Learning)](https://d2l.ai/chapter_attention-mechanisms-and-transformers/index.html)
+10. [tutorial] [Transformers and Multi-Head Attention (UvA Deep Learning Tutorials)](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial6/Transformers_and_MHAttention.html)
 
 ## Acknowledgements
 
