@@ -34,7 +34,7 @@ For reference, we select some papers for each of the topics. There is such a vas
 5. **Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation** ICLR 2022 [paper](https://openreview.net/forum?id=R8sQPpGCv0) *Ofir Press, Noah A. Smith, Mike Lewis.*
 
 
-#### [Syntax-aware Attention and Probing](#content)
+#### [Syntax-aware Attention & Probing](#content)
 
 1. **What does BERT Look at? An Analysis of BERT's Attention** ACL 2019 [paper](https://aclanthology.org/W19-4828/) *Kevin Clark, Urvashi Khandelwal, Omer Levy, Christopher D. Manning.*
 2. **Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned** ACL 2019 [paper](https://aclanthology.org/P19-1580/) *Elena Voita, David Talbot, Fedor Moiseev, Rico Sennrich, Ivan Titov.*
@@ -178,10 +178,11 @@ For reference, we select some papers for each of the topics. There is such a vas
 1. [Fairseq](https://github.com/facebookresearch/fairseq)
 2. [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor)
 3. [Huggingface Transformers](https://github.com/huggingface/transformers)
-4. [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
-5. [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
-6. [Attention Mechanisms and Transformers (Dive into Deep Learning)](https://d2l.ai/chapter_attention-mechanisms-and-transformers/index.html)
-7. [Transformers and Multi-Head Attention (UvA Deep Learning Tutorials)](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial6/Transformers_and_MHAttention.html)
+4. [FasterTransformer](https://github.com/NVIDIA/FasterTransformer)
+5. [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+6. [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
+7. [Attention Mechanisms and Transformers (Dive into Deep Learning)](https://d2l.ai/chapter_attention-mechanisms-and-transformers/index.html)
+8. [Transformers and Multi-Head Attention (UvA Deep Learning Tutorials)](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial6/Transformers_and_MHAttention.html)
 
 ## Acknowledgements
 
