@@ -2,7 +2,7 @@
 
 Transformers have dominated empirical machine learning models of natural language processing (NLP). Here we introduce basic concepts of Transformers and present key techniques that form the recent advances of these models. This includes a description of the standard Transformer architecture, a series of model refinements, and common applications. Given that Transformers and related deep learning techniques might be evolving in ways we have never seen, we cannot dive into all the model details or cover all the technical areas. Instead, we focus on just those concepts that are helpful for gaining a good understanding of Transformers and their variants. We also summarize the key ideas that impact this field, thereby yielding some insights into the strengths and limitations of these models.
 
-You can find the pdf file here: [Introduction to Transformers: an NLP Perspective](https://www.neu.edu.cn/). 
+You can find the pdf file here: [Introduction to Transformers: an NLP Perspective](https://arxiv.org/abs/2311.17633). 
 
 This work is intended for students and researchers in NLP who have basic knowledge of linear algebra and probabilities. Although some familiarity with machine learning (in particular, neural networks and deep learning) is advantageous, readers can still gain a general understanding of Transformers by skipping the sections or sub-sections that require specialized background knowledge.
 
