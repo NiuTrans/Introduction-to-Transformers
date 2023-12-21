@@ -6,6 +6,8 @@ You can find the pdf file here: [Introduction to Transformers: an NLP Perspectiv
 
 This work is intended for students and researchers in NLP who have basic knowledge of linear algebra and probabilities. Although some familiarity with machine learning (in particular, neural networks and deep learning) is advantageous, readers can still gain a general understanding of Transformers by skipping the sections or sub-sections that require specialized background knowledge.
 
+Here is a Chinese version of this webpage: https://github.com/NiuTrans/Introduction-to-Transformers/blob/main/README-zh.md
+
 ## Selected Papers
 
 For reference, we select some papers for each of the topics. There is such a vast amount of research that it is impossible to provide a complete list of related works. Instead of attempting a comprehensive survey of all research areas, we provide a very short list of papers to facilitate a quick understanding of the key issues. 
