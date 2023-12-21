@@ -38,7 +38,7 @@ Transformer模型已经在自然语言处理中占据主导地位，并成为了
 
 ## Transformer相关论文列表
 
-基于Transformer总览图中各个类别的关键模块，本项目补充整理了一份简短的Transformer相关论文列表，希望有助于NLP研究人员快速切入感兴趣的模块，辅助理解论文内容。注意，这不是一个详尽的论文列表，我们更希望这个列表可以作为快速了解Transformer基础和前沿内容的阅读资料。
+基于Transformer总览图中各个类别的关键模块，本项目补充整理了一份简短的Transformer相关论文列表，希望有助于NLP研究人员快速切入感兴趣的模块，辅助理解论文内容。注意，这不是一个详尽的论文列表，我们更希望读者可以通过一些有代表性的工作了解Transformer的基础和前沿内容。
 
 #### [Transformer背景知识](#content)
 
@@ -206,7 +206,7 @@ Transformer模型已经在自然语言处理中占据主导地位，并成为了
 6. **ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks** NeurIPS 2019 [paper](https://papers.nips.cc/paper/2019/hash/c74d97b01eae257e44aa9d5bade97baf-Abstract.html) *Jiasen Lu, Dhruv Batra, Devi Parikh, Stefan Lee.*
 
 
-## （可能）有用的资源
+## 实用资源
 
 1. [系统] [Fairseq](https://github.com/facebookresearch/fairseq)
 2. [系统] [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor)
